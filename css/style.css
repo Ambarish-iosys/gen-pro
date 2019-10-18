@@ -1396,6 +1396,7 @@ a::after {
 @media screen and (max-width:375px) and (min-width:320px)
 {
     .wrapper{padding:0 20px;}
+    .slider img{height: 300px;}
     .we-are-content h3{font-size: 40px;}
     .text1{padding-top: 100%;}
     .text{padding-top: 38%;}
