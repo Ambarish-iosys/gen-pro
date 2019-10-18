@@ -916,7 +916,7 @@ button
 }
 .menu-cover {
     background-color: black;
-    width: 80px;
+    width: 60px;
     /* height: 80px; */
     cursor: pointer;
     display: -webkit-box;
@@ -932,7 +932,7 @@ button
   }
   
   .menu-cover .hamburger {
-    width: 50px;
+    width: 45px;
     height: 4px;
     position: absolute;
     background-color: #ffffff;
@@ -946,7 +946,7 @@ button
     content: '';
     position: absolute;
     top: -15px;
-    width: 50px;
+    width: 45px;
     height: 4px;
     position: absolute;
     background-color: #ffffff;
@@ -960,7 +960,7 @@ button
     content: '';
     position: absolute;
     top: 15px;
-    width: 50px;
+    width: 45px;
     height: 4px;
     position: absolute;
     background-color: #ffffff;
