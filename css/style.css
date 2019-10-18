@@ -467,6 +467,7 @@ button
     padding: 30px;
     background-color: #ebebeb;
     border:none;
+    outline:none;
     color:#000;
     text-align: left;
 }
